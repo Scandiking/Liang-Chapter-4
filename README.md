@@ -29,8 +29,9 @@ This is a repo consisting of the programs as featured in the course book _Introd
 >- To convert a hexadecimal character to a decimal value
 >- To revise the lottery program using strings
 >- To format output using the `System.out.printf` method
->
->[Liang, 2020, p. 143](#1)
+
+
+Liang, 2020, p. 143 [^1]
 
 
 
@@ -43,9 +44,9 @@ The __section__ classes are programming exercises. These come after each chapter
 
 #### Section (programming exercises)
 
-- 4.1 Geometry: area of a pentagon
-- 4.2 Geometry: great circle distance `*`
-- 4.3 Geography: estimate areas `*`
+- 4.1 [Geometry: area of a pentagon](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_1.java)
+- 4.2 [Geometry: great circle distance](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_2.java) `*`
+- 4.3 [Geography: estimate areas](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_3.java) `*`
 - 4.4 Geometry: Area of a five-pointed star
 - 4.5 Geometry: Area of a regular polygon `*`
 - 4.6 Random points on a circle `*`
@@ -72,16 +73,14 @@ The __section__ classes are programming exercises. These come after each chapter
 
 #### Listing
 
-- 4.1 ComputeAngles.java
-- 4.2 OrderTwoCities.java
-- 4.3 GuessBirthday.java
-- 4.4 HexDigit2Dec.java
-- 4.5 LotteryUsingStrings.java
-- 4.6 FormatDemo.java
+- 4.1 [ComputeAngles.java](https://github.com/Scandiking/Liang-Chapter-4/blob/master/ComputeAngles.java)
+- 4.2 [OrderTwoCities.java](https://github.com/Scandiking/Liang-Chapter-4/blob/master/OrderTwoCities.java)
+- 4.3 [GuessBirthday.java](https://github.com/Scandiking/Liang-Chapter-4/blob/master/GuessBirthday.java)
+- 4.4 [HexDigit2Dec.java](https://github.com/Scandiking/Liang-Chapter-4/blob/master/HexDigit2Dec.java)
+- 4.5 [LotteryUsingStrings.java](https://github.com/Scandiking/Liang-Chapter-4/blob/master/LotteryUsingStrings.java)
+- 4.6 [FormatDemo.java](https://github.com/Scandiking/Liang-Chapter-4/blob/master/FormatDemo.java)
 
 ---
 
-<a id="1">[Liang, 2020, p. 143]</a>
-Liang, Y. D. (2020)
-Introduction to Java Programming and Data Structures
+[^1]: Liang, Y. D. (2020). *Introduction to Java Programming and Data Structures*.
 Pearson Education Limited
