@@ -47,17 +47,17 @@ The __section__ classes are programming exercises. These come after each chapter
 - 4.1 [Geometry: area of a pentagon](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_1.java)
 - 4.2 [Geometry: great circle distance](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_2.java) `*`
 - 4.3 [Geography: estimate areas](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_3.java) `*`
-- 4.4 Geometry: Area of a five-pointed star
-- 4.5 Geometry: Area of a regular polygon `*`
-- 4.6 Random points on a circle `*`
-- 4.7 Corner point coordinates `*`
-- 4.8 Find the character of an ASCII code `*`
-- 4.9 Find the Unicode of a character `*`
-- 4.10 Guess birthday `*`
-- 4.11 Binary to decimal `*`
-- 4.12 Hex to binary
-- 4.13 Vowel or consonant? `*`
-- 4.14 Convert letter grade to number `*`
+- 4.4 [Geometry: Area of a five-pointed star](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_4.java)
+- 4.5 [Geometry: Area of a regular polygon](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_5.java) `*`
+- 4.6 [Random points on a circle](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_6.java) `*`
+- 4.7 [Corner point coordinates](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_7.java) `*`
+- 4.8 [Find the character of an ASCII code](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_8.java) `*`
+- 4.9 [Find the Unicode of a character](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_9.java) `*`
+- 4.10 [Guess birthday](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_10.java) `*`
+- 4.11 [Binary to decimal](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_11.java) `*`
+- 4.12 [Hex to binary](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_12.java)
+- 4.13 [Vowel or consonant?](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_13.java) `*`
+- 4.14 [Convert letter grade to number](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_14.java) `*`
 - 4.15 Phone key pads `*`
 - 4.16 Random character
 - 4.17 Days of a month `*`
