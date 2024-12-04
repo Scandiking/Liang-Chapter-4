@@ -58,18 +58,18 @@ The __section__ classes are programming exercises. These come after each chapter
 - 4.12 [Hex to binary](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_12.java)
 - 4.13 [Vowel or consonant?](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_13.java) `*`
 - 4.14 [Convert letter grade to number](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_14.java) `*`
-- 4.15 Phone key pads `*`
-- 4.16 Random character
-- 4.17 Days of a month `*`
-- 4.18 Student major and status `*`
-- 4.19 Business: check ISBN-10
-- 4.20 Process a string
-- 4.21 Check IMEI number `*`
-- 4.22 Check substring position
-- 4.23 Loyalty card discount `*`
-- 4.24 Enter three countries `*`
-- 4.25 Generate vehicle plate numbers `*`
-- 4.26 Financial application: monetary units `*`
+- 4.15 [Phone key pads](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_15.java) `*`
+- 4.16 [Random character](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_16.java)
+- 4.17 [Days of a month](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_17.java) `*`
+- 4.18 [Student major and status](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_18.java) `*`
+- 4.19 [Business: check ISBN-10](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_19.java)
+- 4.20 [Process a string](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_20.java)
+- 4.21 [Check IMEI number](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_21.java) `*`
+- 4.22 [Check substring position](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_22.java)
+- 4.23 [Loyalty card discount](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_23.java) `*`
+- 4.24 [Enter three countries](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_24.java) `*`
+- 4.25 [Generate vehicle plate numbers](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_25.java) `*`
+- 4.26 [Financial application: monetary units](https://github.com/Scandiking/Liang-Chapter-4/blob/master/Section_4_26.java) `*`
 
 #### Listing
 
